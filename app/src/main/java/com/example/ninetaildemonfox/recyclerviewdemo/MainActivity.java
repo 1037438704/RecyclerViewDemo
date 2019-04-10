@@ -73,6 +73,5 @@ public class MainActivity extends AppCompatActivity {
         recycler2Adp.setNewData(videoBeans1);
         List<Bean.ResultBean.VideoBean> videoBeans2 = video.get(2);
         recycler3Adp.setNewData(videoBeans2);
-
     }
 }

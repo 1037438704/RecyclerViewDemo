@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_time_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawablePadding="10dp"
+    android:gravity="bottom"
+    android:padding="10dp"
+    android:paddingLeft="7dp"
+    android:text="钓鱼"
+    android:textColor="#333333"
+    android:textSize="13sp" />
